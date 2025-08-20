@@ -8,7 +8,7 @@
 #   cycle through the different instances.
 #
 # Define key bindings in your Niri config that execute this script, for example:
-#   Super+F { spawn "~/.config/niri/niri-run-or-raise.sh" "firefox"; }
+#   Super+F { spawn "~/opt/niri-run-or-raise.sh" "firefox"; }
 #
 # Dependencies:
 # - bash: The script uses Bash arrays.
